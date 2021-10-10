@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto&display=swap');
+
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+    background-image: url();
+}
+h1{
+    font-size: 56px;
+    text-align: left;
+    color: darkslategray;
+}
+.landing_picture{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+}
+.navbar .links {
+    margin-top: 0%;
+    font-size: 30px;
+    box-shadow: darkslategray;
+    text-align: right;
+    text-decoration: none;
+}
+.navbar .links .logo{
+    font-size: 56px;
+    text-align: left;
+    color: darkslategray;
+}
